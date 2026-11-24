@@ -1,0 +1,14 @@
+{
+  "name": "reel-group-scout",
+  "owner": {
+    "name": "Sami Parilti"
+  },
+  "plugins": [
+    {
+      "name": "reel-group-scout",
+      "source": "./",
+      "description": "Reads an Instagram group chat through a bot account, scouts every new reel and post with reel-skill-scout, and adds the repos to a shared Google Doc.",
+      "version": "1.0.0"
+    }
+  ]
+}

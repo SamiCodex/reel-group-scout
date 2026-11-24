@@ -1,0 +1,12 @@
+{
+  "name": "reel-group-scout",
+  "version": "1.0.0",
+  "description": "Reads your Instagram group chat through a bot account, finds every reel and post shared since the last check, scouts each one with reel-skill-scout, and adds the repos to a shared Google Doc.",
+  "author": {
+    "name": "Sami Parilti"
+  },
+  "homepage": "https://github.com/SamiCodex/reel-group-scout",
+  "repository": "https://github.com/SamiCodex/reel-group-scout",
+  "license": "MIT",
+  "keywords": ["claude", "skills", "instagram", "group-chat", "google-docs", "mcp", "discovery"]
+}
